@@ -111,7 +111,7 @@ Clone the repository:
 
 ```bash
 git clone <https://github.com/SanchiJoshi/Diabetic-Retinopathy-Detection-using-CNN>
-cd diabetic-retinopathy-detection
+cd Diabetic-Retinopathy-Detection-using-CNN
 ```
 
 Install dependencies:
